@@ -1,0 +1,3427 @@
+[
+  {
+    "title": "& Juliet",
+    "cast_list": [
+      {
+        "cast_name": "Gianna Harris",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Juliet-Gianna-Harris.jpg",
+        "cast_role": "Juliet"
+      },
+      {
+        "cast_name": "Hayden Tee",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Juliet-Hayden-Tee-Cropped.jpg",
+        "cast_role": "Lance"
+      },
+      {
+        "cast_name": "Alison Luff",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Juliet-Alison-Luff.jpeg",
+        "cast_role": "Anne"
+      },
+      {
+        "cast_name": "Drew Gehling",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/20758599/Juliet-Drew-Gehling.jpg",
+        "cast_role": "Shakespeare"
+      },
+      {
+        "cast_name": "Michael Iván Carrier",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Juliet-Michael-Ivan-Carrier-1-10-2-23.jpg",
+        "cast_role": "May"
+      },
+      {
+        "cast_name": "Cheryl Porter",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Juliet-Cheryl-Porter.jpg",
+        "cast_role": "Angélique"
+      },
+      {
+        "cast_name": "Liam Pearce",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Juliet-Liam-Pearce-6-19-25.jpeg",
+        "cast_role": "Romeo"
+      },
+      {
+        "cast_name": "Nathan Levy",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Juliet-Nathan-Levy.jpeg",
+        "cast_role": "François"
+      },
+      {
+        "cast_name": "Gabe Amato",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Juliet-Gabe-Amato-Cropped.jpg",
+        "cast_role": "Gregory"
+      },
+      {
+        "cast_name": "Daniel Assetta",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/19519569/Juliet-Daniel-Assetta.jpg",
+        "cast_role": "Henry"
+      },
+      {
+        "cast_name": "Reese Britts",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Juliet-Reese-Britts.jpg",
+        "cast_role": "Lord Capulet"
+      },
+      {
+        "cast_name": "Nicholas Cooper",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Juliet-Nicholas-Cooper-6-9-25.jpg",
+        "cast_role": "Lennox"
+      },
+      {
+        "cast_name": "Halima Dodo",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Juliet-Halima-Dodo.jpeg",
+        "cast_role": "Charmion"
+      },
+      {
+        "cast_name": "Jhailyn Paige Farcon",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/21163237/Juliet-Jhailyn-Paige-Farcon.jpg",
+        "cast_role": "Imogen"
+      },
+      {
+        "cast_name": "Shelby Griswold",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Juliet-SHELBY-GRISWOLD-Cropped.jpg",
+        "cast_role": "Eleanor"
+      },
+      {
+        "cast_name": "Makai Hernandez",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Juliet-Makai-Hernandez.jpg",
+        "cast_role": "Richard"
+      },
+      {
+        "cast_name": "Joomin Hwang",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Juliet-Joomin-Hwang-10-2-23.jpg",
+        "cast_role": "Kempe"
+      },
+      {
+        "cast_name": "Alaina Vi Maderal",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Juliet-Alaina-Vi-Maderal-10-2-23.jpg",
+        "cast_role": "Gwynne"
+      },
+      {
+        "cast_name": "Daniel J. Maldonado",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Juliet-Daniel-Maldonado-10-2-23.jpg",
+        "cast_role": "Fletcher"
+      },
+      {
+        "cast_name": "Mackenzie Meadows",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Juliet-Mackenzie-Meadows.jpg",
+        "cast_role": "Lady Capulet"
+      },
+      {
+        "cast_name": "Brittany Nicholas",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Juliet-Brittany-Nicholas-10-2-23-Cropped.jpg",
+        "cast_role": "Viola"
+      },
+      {
+        "cast_name": "Alejandro MullerDahlberg",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Juliet-Alejandro-MullerDahlberg.jpeg",
+        "cast_role": "Crosse"
+      },
+      {
+        "cast_name": "Cassie Silva",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Juliet-Cassie-Silva.jpeg",
+        "cast_role": "Lucy"
+      },
+      {
+        "cast_name": "TJ Tapp",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Juliet-TJ-Tapp.jpg",
+        "cast_role": "Margaret"
+      },
+      {
+        "cast_name": "Zalah Vallien",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Juliet-Zalah-Vallien.jpg",
+        "cast_role": "Judith"
+      },
+      {
+        "cast_name": "Darien Van Rensalier",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Juliet-Darien-Van-Rensalier.jpeg",
+        "cast_role": "Augustine"
+      }
+    ]
+  },
+  {
+    "title": "Aladdin",
+    "cast_list": [
+      {
+        "cast_name": "Ainsley Melham",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Aladdin-A-Melham-8-25-25.jpg",
+        "cast_role": "Aladdin"
+      },
+      {
+        "cast_name": "Sonya Balsara",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Aladdin-S.-Balsara.jpg",
+        "cast_role": "Jasmine"
+      },
+      {
+        "cast_name": "Michael James Scott",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Aladdin-M.-Scott-10-2-23.jpg",
+        "cast_role": "Genie"
+      },
+      {
+        "cast_name": "Dennis Stowe",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Aladdin-D.-Stowe-10-2-23.jpg",
+        "cast_role": "Jafar"
+      },
+      {
+        "cast_name": "Jacob Ben-Shmuel",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Aladdin-J.-Ben-Shmuel.jpg",
+        "cast_role": "Omar"
+      },
+      {
+        "cast_name": "Brandon O'Neill",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Aladdin-B.-ONeill.jpg",
+        "cast_role": "Spooky Voice"
+      },
+      {
+        "cast_name": "Colt Prattes",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Aladdin-C.-Prattes-12-30-24.jpg",
+        "cast_role": "Kassim"
+      },
+      {
+        "cast_name": "Michael Schimmele",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Aladdin-M.-Schimmele-10-20-25-Cropped.jpg",
+        "cast_role": "Babkak"
+      },
+      {
+        "cast_name": "J. C. Montgomery",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/302544566064bf814afd8a9adba91ad7-jc-montgomery.jpg",
+        "cast_role": "Sultan"
+      },
+      {
+        "cast_name": "Don Darryl Rivera",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Aladdin-D.-Rivera-10-2-23.jpg",
+        "cast_role": "Iago"
+      },
+      {
+        "cast_name": "Nicole Athill",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Aladdin-N.-Athill-11-3-25-Cropped.jpg",
+        "cast_role": "Attendant"
+      },
+      {
+        "cast_name": "Anju Cloud",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Aladdin-A.-Cloud-4-8-24.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Edward Cuellar",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Aladdin-E.-Cuellar.jpg",
+        "cast_role": "Shop Owner"
+      },
+      {
+        "cast_name": "Joshua Dela Cruz",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Aladdin-J.-Dela-Cruz-9-15-25.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Mark DiConzo",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/ALADDIN-M.-DiConzo-1-31-22.jpg",
+        "cast_role": "Razoul"
+      },
+      {
+        "cast_name": "Max B. Ehrlich",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Aladdin-M.-B-Ehrlich-10-25-21.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Samantha Farrow",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Aladdin-S.-FARROW.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Keisha Gilles",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Aladdin-K.-Gilles-10-2-23.jpg",
+        "cast_role": "Attendant"
+      },
+      {
+        "cast_name": "Cameron Hobbs",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Aladdin-C.-Hobbs.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Kimberly Immanuel",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Aladdin-K.-Immanuel.jpg",
+        "cast_role": "Attendant"
+      },
+      {
+        "cast_name": "Cameron Jackson",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Aladdin-C.-Jackson-8-4-25.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Jamie Kasey Patterson",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/11be21ed7446b3e816eb5b21c782f7d0-jamie-kasey-patterson.jpg",
+        "cast_role": "Henchman"
+      },
+      {
+        "cast_name": "Bobby Pestka",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/cb46fed49ca0441ca82d2c065286472f-bobby-pestka.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Tyler Roberts",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/4d2b6d2caa44b06cad34cf8cd7dc3803-tyler-roberts.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Campy Rodriguez",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Aladdin-C.-Rodriguez.jpg",
+        "cast_role": "Henchman"
+      },
+      {
+        "cast_name": "Jaz Sealey",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Aladdin-J.-Sealey-9-28-21.jpg",
+        "cast_role": "Prince Abdullah"
+      },
+      {
+        "cast_name": "Marcus Shane",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Aladdin-M.-Shane-6-3-24_2025-10-07-193924_jqgi.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Katie Terza",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Aladdin-K.-Terza.jpg",
+        "cast_role": "Ensemble"
+      }
+    ]
+  },
+  {
+    "title": "Art",
+    "cast_list": [
+      {
+        "cast_name": "Bobby Cannavale",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Art-B.-Cannavale_2025-10-07-195008_wpec.jpg",
+        "cast_role": "Marc"
+      },
+      {
+        "cast_name": "James Corden",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Art-J.-Corden.jpg",
+        "cast_role": "Yvan"
+      },
+      {
+        "cast_name": "Neil Patrick Harris",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Art-N.-P.-Harris.jpg",
+        "cast_role": "Serge"
+      }
+    ]
+  },
+  {
+    "title": "Beetlejuice",
+    "cast_list": [
+      {
+        "cast_name": "Justin Collette",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Beetlejuice-J.-Collette-Cropped-1.jpg",
+        "cast_role": "Beetlejuice"
+      },
+      {
+        "cast_name": "Isabella Esler",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Beetlejuice-I.-Esler-Cropped-1.jpg",
+        "cast_role": "Lydia"
+      },
+      {
+        "cast_name": "Megan McGinnis",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Beetlejuice-M.-McGinnis-Cropped.jpg",
+        "cast_role": "Barbara"
+      },
+      {
+        "cast_name": "Will Burton",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Beetlejuice-W.-Burton-Cropped.jpg",
+        "cast_role": "Adam"
+      },
+      {
+        "cast_name": "Jesse Sharp",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Beetlejuice-J.-Sharp-Cropped.jpg",
+        "cast_role": "Charles"
+      },
+      {
+        "cast_name": "Jenni Barber",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Beetlejuice-J.-Barber-Cropped.jpg",
+        "cast_role": "Delia"
+      },
+      {
+        "cast_name": "Madison Mosley",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Beetlejuice-M.-Mosley-Cropped.jpg",
+        "cast_role": "Lydia Alternate"
+      },
+      {
+        "cast_name": "Patrick Oliver Jones",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Beetlejuice-P.-Jones-Cropped-1.jpg",
+        "cast_role": "Otho"
+      },
+      {
+        "cast_name": "Travis Mitchell",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Beetlejuice-T.-Mitchell-Cropped-1.jpg",
+        "cast_role": "Maxie Dean"
+      },
+      {
+        "cast_name": "Trisha Paytas",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Beetlejuice-T.-Paytas-Cropped.jpg",
+        "cast_role": "Maxine Dean"
+      },
+      {
+        "cast_name": "Sharone Sayegh",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Beetlejuice-S.-Sayegh-Cropped-1.jpg",
+        "cast_role": "Juno"
+      },
+      {
+        "cast_name": "Vanessa Aurora Sierra",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Beetlejuice-V.-Sierra-Cropped-1.jpg",
+        "cast_role": "Miss Argentina"
+      },
+      {
+        "cast_name": "Emilia Tagliani",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Beetlejuice-E.-Tagliani-Cropped.jpg",
+        "cast_role": "Girl Scout"
+      },
+      {
+        "cast_name": "Sophie Aknin",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Beetlejuice-S.-Aknin-Cropped.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Michael Biren",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Beetlejuice-M.-Biren-Cropped.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Jonathan Bryant",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Beetlejuice-J.-Bryant-Cropped-1.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Katie Griffith",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Beetlejuice-K.-Griffith-Cropped.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Eric Anthony Johnson",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Beetlejuice-2025-E.-Johnson-Cropped-1.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Kenway Hon Wai K. Kua",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Beetlejuice-K.-Kua-Cropped-1.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Matt Kurzyniec",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Beetlejuice-M.-Kurzyniec-Cropped.jpg",
+        "cast_role": "Mover #2"
+      },
+      {
+        "cast_name": "Mateo Melendez",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Beetlejuice-M.-Melendez-Cropped.jpg",
+        "cast_role": "Ensemble"
+      }
+    ]
+  },
+  {
+    "title": "Buena Vista Social Club",
+    "cast_list": [
+      {
+        "cast_name": "Natalie Venetia Belcon",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/BVSC-N.-Belcon.jpg",
+        "cast_role": "Omara"
+      },
+      {
+        "cast_name": "Julio Monge",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/BVSC-J.-Monge.jpg",
+        "cast_role": "Compay"
+      },
+      {
+        "cast_name": "Mel Semé",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/BVSC-M.-Seme.jpg",
+        "cast_role": "Ibrahim"
+      },
+      {
+        "cast_name": "Jainardo Batista Sterling",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/BVSC-J.-Batista.jpg",
+        "cast_role": "Rubén"
+      },
+      {
+        "cast_name": "Isa Antonetti",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/BVSC-I.-Antonetti.jpg",
+        "cast_role": "Young Omara"
+      },
+      {
+        "cast_name": "Da’Von Moody",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/BVSC-D.-Moody-Cropped.jpg",
+        "cast_role": "Young Compay"
+      },
+      {
+        "cast_name": "Wesley Wray",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/BVSC-W.-Wray.jpg",
+        "cast_role": "Young Ibrahim"
+      },
+      {
+        "cast_name": "Leonardo Reyna",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/BVSC-L.-Reyna.jpg",
+        "cast_role": "Young Rubén"
+      },
+      {
+        "cast_name": "Renesito Avich",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/BVSC-R.-Avich.jpg",
+        "cast_role": "Eliades"
+      },
+      {
+        "cast_name": "Ashley De La Rosa",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/BVSC-A.-De-La-Rosa.jpg",
+        "cast_role": "Young Haydee"
+      },
+      {
+        "cast_name": "Chris Myers",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/BVSC-C.-Myers.jpg",
+        "cast_role": "Juan de Marcos"
+      },
+      {
+        "cast_name": "Angélica Beliard",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/BVSC-A.-Beliard.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Adriel Flete",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Hells-Kitchen-A.-Flete-Cropped-1.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Héctor Juan Maisonet",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/BVSC-H.-Maisonet.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Ilda Mason",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/BVSC-I.-Mason.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Marielys Molina",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/BVSC-M.-Molina.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Anthony Santos",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/BVSC-A.-Santos.jpg",
+        "cast_role": "Ensemble"
+      }
+    ]
+  },
+  {
+    "title": "Chess",
+    "cast_list": [
+      {
+        "cast_name": "Aaron Tveit",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/CHESS-A.-Tveit-Cropped.jpg",
+        "cast_role": "Freddie Trumper"
+      },
+      {
+        "cast_name": "Lea Michele",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/CHESS-L.-Michele-Cropped.jpg",
+        "cast_role": "Florence Vassy"
+      },
+      {
+        "cast_name": "Nicholas Christopher",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/CHESS-N.-Christopher-Cropped.jpg",
+        "cast_role": "Anatoly Sergievsky"
+      },
+      {
+        "cast_name": "Hannah Cruz",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/CHESS-H.-Cruz-Cropped.jpg",
+        "cast_role": "Svetlana Sergievsky"
+      },
+      {
+        "cast_name": "Bryce Pinkham",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/CHESS-B.-Pinkham-Cropped-1.jpg",
+        "cast_role": "The Arbiter"
+      },
+      {
+        "cast_name": "Bradley Dean",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/CHESS-B.-Dean-Cropped-1.jpg",
+        "cast_role": "Alexander Molokov"
+      },
+      {
+        "cast_name": "Sean Allan Krill",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/CHESS-S.-Krill-Cropped-1.jpg",
+        "cast_role": "Walter de Courcey"
+      },
+      {
+        "cast_name": "Kyla Louise Bartholomeusz",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/CHESS-K.-Bartholomeusz-Cropped-1.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Daniel Beeman",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/CHESS-D.-Beeman-Cropped.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Shavey Brown",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/CHESS-S.-Brown-Cropped.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Casey Garvin",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/CHESS-C.-Garvin-Cropped.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Adam Halpin",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/CHESS-A.-Halpin-Cropped.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Aliah James",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/CHESS-A.-James-Cropped-1.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Sydney Jones",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/CHESS-S.-Jones-Cropped-1.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Sean MacLaughlin",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/CHESS-S.-Maclaughlin-Cropped-1.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Sarah Meahl",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/CHESS-S.-Meahl-Cropped-1.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Ramone Nelson",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/CHESS-R.-Nelson-Cropped.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Michael Olaribigbe",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/CHESS-M.-Olaribigbe-Cropped-1.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Katerina Papacostas",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/CHESS-K.-Papacostas-Cropped.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Aleksandr Ivan Pevec",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/CHESS-A.-Pevec-Cropped.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Samantha Pollino",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/CHESS-S.-Pollino-Cropped-1.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Regine Sophia",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/CHESS-R.-Sophia-Cropped.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Katie Webber",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/CHESS-K.-Webber-Cropped-1.jpg",
+        "cast_role": "Ensemble"
+      }
+    ]
+  },
+  {
+    "title": "Chicago",
+    "cast_list": [
+      {
+        "cast_name": "Rachel Schur",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Chicago-R.-Schur-4-25-22-Cropped-2.jpg",
+        "cast_role": "Roxie Hart"
+      },
+      {
+        "cast_name": "Sophie Carmen-Jones",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Chicago-S.-Carmen-Jones.jpg",
+        "cast_role": "Velma Kelly"
+      },
+      {
+        "cast_name": "Tam Mutu",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Chicago-T.-Mutu.jpg",
+        "cast_role": "Billy Flynn"
+      },
+      {
+        "cast_name": "Raymond Bokhour",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Chicago-R.-Bokhour-10-2-23.jpg",
+        "cast_role": "Amos Hart"
+      },
+      {
+        "cast_name": "Nakiya Peterkin",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Chicago-N.-Peterkin-Cropped-1.jpg",
+        "cast_role": "Matron \"Mama\" Morton"
+      },
+      {
+        "cast_name": "R. Lowe",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Chicago-R.-Lowe-10-2-23.jpg",
+        "cast_role": "Mary Sunshine"
+      },
+      {
+        "cast_name": "Zach Bravo",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Chicago-Z.-Bravo.jpg",
+        "cast_role": "Fred Casely"
+      },
+      {
+        "cast_name": "Max Clayton",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Chicago-M.-Clayton-11-11-24-Cropped.jpg",
+        "cast_role": "Doctor"
+      },
+      {
+        "cast_name": "Jessica Ernest",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Chicago-J.-Ernest-3-10-25.jpg",
+        "cast_role": "Go-To-Hell-Kitty"
+      },
+      {
+        "cast_name": "Arian Keddell",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Chicago-A.-Keddell-11-13-23.jpg",
+        "cast_role": "Mona"
+      },
+      {
+        "cast_name": "James T. Lane",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Chicago-J.-Lane-6-16-25.jpg",
+        "cast_role": "Harry"
+      },
+      {
+        "cast_name": "Barrett Martin",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Chicago-B.-Martin-2-19-24.jpg",
+        "cast_role": "Sergeant Fogarty"
+      },
+      {
+        "cast_name": "Drew Nellessen",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Chicago-D.-Nellessen-10-2-23.jpg",
+        "cast_role": "Bailiff"
+      },
+      {
+        "cast_name": "Celina Nightengale",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Chicago-C.-Nightengale-3-24-25.jpg",
+        "cast_role": "June"
+      },
+      {
+        "cast_name": "Kristen Faith Oei",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Chicago-K.-Faith-Oei.jpg",
+        "cast_role": "Hunyak"
+      },
+      {
+        "cast_name": "Denny Paschall",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Chicago-D.-Paschall-2-12-24.jpg",
+        "cast_role": "Aaron"
+      },
+      {
+        "cast_name": "Mikayla Renfrow",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Chicago-M.-Renfrow.jpg",
+        "cast_role": "Liz"
+      },
+      {
+        "cast_name": "Sean Samuels",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Chicago-S.-Samuels.jpg",
+        "cast_role": "Martin Harrison"
+      },
+      {
+        "cast_name": "Samantha Sturm",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Chicago-S.-Sturm.jpg",
+        "cast_role": "Annie"
+      }
+    ]
+  },
+  {
+    "title": "Death Becomes Her",
+    "cast_list": [
+      {
+        "cast_name": "Megan Hilty",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Death-Becomes-Her-M.-Hilty.jpg",
+        "cast_role": "Madeline Ashton"
+      },
+      {
+        "cast_name": "Jennifer Simard",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Death-Becomes-Her-J.-Simard.jpg",
+        "cast_role": "Helen Sharp"
+      },
+      {
+        "cast_name": "Christopher Sieber",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Death-Becomes-Her-C.-Sieber.jpg",
+        "cast_role": "Ernest Menville"
+      },
+      {
+        "cast_name": "Michelle Williams",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Death-Becomes-Her-M.-Williams.jpeg",
+        "cast_role": "Viola Van Horn"
+      },
+      {
+        "cast_name": "Taurean Everett",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Death-Becomes-Her-T.-Everett.jpeg",
+        "cast_role": "Chagall"
+      },
+      {
+        "cast_name": "Josh Lamon",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Death-Becomes-Her-J.-Lamon.jpg",
+        "cast_role": "Stefan"
+      },
+      {
+        "cast_name": "Marija Abney",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Death-Becomes-Her-M.-Abney.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Sarita Colón",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Death-Becomes-Her-S.-Colon.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Kaleigh Cronin",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Death-Becomes-Her-K.-Cronin.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Alexa De Barr",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/MOULIN-ROUGE-A.-De-Barr-Cropped-1.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Natalie Charlé Ellis",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Death-Becomes-Her-N.-Charle-Ellis-9-29-25.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Michael Graceffa",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/21138392/Death-Becomes-Her-M.-Graceffa.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Neil Haskell",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Death-Becomes-Her-N.-Haskell.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Ximone Rose",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Death-Becomes-Her-X.-Rose.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Bethany Ann Tesarck",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Death-Becomes-Her-B.-Tesarck.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Mitch Tobin",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Death-Becomes-Her-M.-Tobin-Cropped.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Sir Brock Warren",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Death-Becomes-Her-S.-Brock-Warren-Cropped.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Bud Weber",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/21138273/Death-Becomes-Her-B.-Weber.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Ryan Worsing",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Death-Becomes-Her-R.-Worsing.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Warren Yang",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Death-Becomes-Her-W.-Yang.jpg",
+        "cast_role": "Ensemble"
+      }
+    ]
+  },
+  {
+    "title": "Hadestown",
+    "cast_list": [
+      {
+        "cast_name": "Morgan Dudley",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/22040989/Hadestown-M.-Dudley.jpg",
+        "cast_role": "Eurydice"
+      },
+      {
+        "cast_name": "Kurt Elling",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Hadestown-K.-Elling-9-15-25.jpg",
+        "cast_role": "Hermes"
+      },
+      {
+        "cast_name": "Rebecca Naomi Jones",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Hadestown-R.-Naomi-Jones.jpg",
+        "cast_role": "Persephone"
+      },
+      {
+        "cast_name": "Paulo Szot",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Hadestown-P-Szot.jpg",
+        "cast_role": "Hades"
+      },
+      {
+        "cast_name": "Jack Wolfe",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Hadestown-J.-Wolfe.jpg",
+        "cast_role": "Orpheus"
+      },
+      {
+        "cast_name": "Marla Louissaint",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Hadestown-M.-Louissaint.jpg",
+        "cast_role": "Fate"
+      },
+      {
+        "cast_name": "Jessie Shelton",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Hadestown-J.-Shelton-4-29-24.jpg",
+        "cast_role": "Fate"
+      },
+      {
+        "cast_name": "Kay Trinidad",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Hadestown-K.-Trinidad.jpg",
+        "cast_role": "Fate"
+      },
+      {
+        "cast_name": "Emily Afton",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Hadestown-E.-Afton-10-2-23.jpg",
+        "cast_role": "Workers Chorus"
+      },
+      {
+        "cast_name": "Malcolm Armwood",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Hadestown-M.-Armwood-10-2-23.jpg",
+        "cast_role": "Workers Chorus"
+      },
+      {
+        "cast_name": "Jeffrey Cornelius",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Hadestown-J.-Cornelius.jpeg",
+        "cast_role": "Workers Chorus"
+      },
+      {
+        "cast_name": "Sydney Parra",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Hadestown-S.-Parra.jpg",
+        "cast_role": "Workers Chorus"
+      },
+      {
+        "cast_name": "Alex Puette",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Hadestown-A.-Puette-1-6-25.jpg",
+        "cast_role": "Workers Chorus"
+      }
+    ]
+  },
+  {
+    "title": "Hamilton",
+    "cast_list": [
+      {
+        "cast_name": "Jisel Soleil Ayon",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Hamilton-J.-S.-Ayon.jpg",
+        "cast_role": "Angelica Schuyler"
+      },
+      {
+        "cast_name": "Bryson Bruce",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Hamilton-B.-Bruce-10-2-23.jpg",
+        "cast_role": "Marquis de Lafayette"
+      },
+      {
+        "cast_name": "Trey Curtis",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Hamilton-T.-Curtis-5-13-24.jpg",
+        "cast_role": "Alexander Hamilton"
+      },
+      {
+        "cast_name": "Tamar Greene",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Hamilton-T.-Greene-10-2-23.jpg",
+        "cast_role": "George Washington"
+      },
+      {
+        "cast_name": "David Guzman",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Hamilton-D.-Guzman-10-4-21.jpg",
+        "cast_role": "John Laurens"
+      },
+      {
+        "cast_name": "Leslie Odom, Jr.",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Hamilton-L.-Odom-Jr.-9-8-25.jpg",
+        "cast_role": "Aaron Burr"
+      },
+      {
+        "cast_name": "Jarrod Spector",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Hamilton-J.-Spector-10-2-23.jpg",
+        "cast_role": "King George"
+      },
+      {
+        "cast_name": "Ebrin Stanley",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/17230868/Hamilton-E.-Stanley-10-2-23.jpg",
+        "cast_role": "Hercules Mulligan"
+      },
+      {
+        "cast_name": "Cherry Torres",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Hamilton-C.-Torres-10-2-23.jpg",
+        "cast_role": "Peggy Schuyler"
+      },
+      {
+        "cast_name": "Morgan Anita Wood",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Hamilton-M.-A.-Wood.jpg",
+        "cast_role": "Eliza Hamilton"
+      },
+      {
+        "cast_name": "Reanne Acasio",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Hamilton-R.-Acasio.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Lauren Boyd",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Hamilton-L.-Boyd-4-7-25.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Jonathan Butler-Duplessis",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Hamilton-J.-Butler-Duplessis-10-2-23.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Daniel Gaymon",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Hamilton-D.-Gaymon.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Jennifer Geller",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Hamilton-J.-Geller-6-2-25.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Shonica Gooden",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Hamilton-S.-Gooden-10-2-23.jpeg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Thayne Jasperson",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Hamilton-T.-Jasperson-9-29-25.jpg",
+        "cast_role": "Samuel Seabury"
+      },
+      {
+        "cast_name": "Dharon Jones",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Hamilton-D.-Jones-9-15-25.jpeg",
+        "cast_role": "George Eacker"
+      },
+      {
+        "cast_name": "Ashley Merritt",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Hamilton-A.-Merritt.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Rixey Terry",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Hamilton-R.-Terry.jpg",
+        "cast_role": "Charles Lee"
+      },
+      {
+        "cast_name": "Christian Thompson",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Hamilton-C.-Thompson-9-15-25.jpeg",
+        "cast_role": "Philip Schuyler"
+      }
+    ]
+  },
+  {
+    "title": "Harry Potter and the Cursed Child",
+    "cast_list": [
+      {
+        "cast_name": "Matthew James Thomas",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Harry-Potter-M.-James-Thomas.jpg",
+        "cast_role": "Harry Potter"
+      },
+      {
+        "cast_name": "Erica Sweany",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Harry-Potter-E-Sweany.jpg",
+        "cast_role": "Ginny Potter"
+      },
+      {
+        "cast_name": "Alex Serino",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/21213653/Harry-Potter-A.-Serino.jpg",
+        "cast_role": "Albus Potter"
+      },
+      {
+        "cast_name": "Daniel Fredrick",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/19132090/Harry-Potter-D.-Fredrick.jpg",
+        "cast_role": "Ron Weasley"
+      },
+      {
+        "cast_name": "Rachel Ellena Christopher",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Harry-Potter-R.-Christopher-9-15-25.jpg",
+        "cast_role": "Hermione Granger"
+      },
+      {
+        "cast_name": "Ayanna Nicole Thomas",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Harry-Potter-A.-Thomas.jpg",
+        "cast_role": "Rose Granger-Weasley"
+      },
+      {
+        "cast_name": "Aaron Bartz",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Harry-Potter-A.-Bartz-10-2-23.jpg",
+        "cast_role": "Draco Malfoy"
+      },
+      {
+        "cast_name": "Erik Christopher Peterson",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Harry-Potter-E.-C-PETERSON-10-2-23.jpg",
+        "cast_role": "Scorpius Malfoy"
+      },
+      {
+        "cast_name": "Kristen Martin",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Harry-Potter-K.-Martin.jpg",
+        "cast_role": "Delphi Diggory"
+      },
+      {
+        "cast_name": "Chadd Alexander",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Harry-Potter-C.-ALEXANDER-10-7-24.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "John Alix",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Harry-Potter-J.-ALIX.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Megan Byrne",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Harry-Potter-M.-Bryne.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Eric Cheung",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/19132104/Harry-Potter-E.-Cheung.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Maxim Chlumecky",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Harry-Potter-M.-Chlumecky.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "James Cribbins",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Harry-Potter-J.-Cribbins.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Ted Deasy",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Harry-Potter-T.-Deasy-9-8-25.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Jamyl Dobson",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Harry-Potter-J.-DOBSON-11-13-23.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Kira Fath",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Harry-Potter-K.-Fath-10-2-23.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Gary-Kayi Fletcher",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Harry-Potter-G.-FLETCHER-10-2-23.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Eleasha Gamble",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Harry-Potter-E.-GAMBLE-11-13-23.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Logan James Hall",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Harry-Potter-L-James-HALL-10-2-23.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Janae Hammond",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Harry-Potter-J.-Hammond.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Abbi Hawk",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Harry-Potter-A.-HAWK-10-2-23.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Sophie Hearn",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Harry-Potter-S.-Hearn.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Chance Marshaun Hill",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Harry-Potter-C.-Marshaun-HILL-10-2-23.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Ben Horner",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Harry-Potter-B.-Horner-3-11-24.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Chris Jarman",
+        "cast_img": "https://assets.playbill.com/site/_carouselMedium/pb.Listing.Placeholder.ARTIST.V4.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Rachel Leslie",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Harry-Potter-R.-Leslie-2-17-25.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Zachary Lindberg",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Harry-Potter-Z.-Lindberg.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Jay Mack",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Harry-Potter-J.-Mack.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Bradley Patchett",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/21214114/Harry-Potter-B.-Patchett.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Alexandra Peter",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Harry-Potter-A.-Peter-10-16-23.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Dan Piering",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Harry-Potter-D.-Piering-10-14-24.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Kira Player",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Harry-Potter-K.-Player-Kira.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Dan Plehal",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Harry-Potter-D.-Plehal.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Allie Re",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Harry-Potter-A.-Re.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Gabrielle Reid",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Harry-Potter-G.-Reid-9-8-25.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Isaac Phaman Reynolds",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/21214119/Harry-Potter-I.-Reynolds.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Stephen Spinella",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Harry-Potter-S.-Spinella-9-8-25.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Tom Stephens",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Harry-Potter-T.-Stephens-10-2-23.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Khadija Tariyan",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Harry-Potter-K.-Tariyan.jpeg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Baylen Thomas",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Harry-Potter-B.-Thomas.jpeg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Julius Williams",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Harry-Potter-J.-Williams.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Riley Thad Young",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Harry-Potter-R.-Thad-Young-Cropped-1.jpg",
+        "cast_role": "Ensemble"
+      }
+    ]
+  },
+  {
+    "title": "Hell's Kitchen",
+    "cast_list": [
+      {
+        "cast_name": "Amanda Reid",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Hells-Kitchen-A.-Reid-Cropped-1.jpg",
+        "cast_role": "Ali"
+      },
+      {
+        "cast_name": "Jessica Vosk",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Hells-Kitchen-J.-Vosk-Cropped-1.jpg",
+        "cast_role": "Jersey"
+      },
+      {
+        "cast_name": "Christopher Jackson",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Hells-Kitchen-C.-Jackson-Cropped-2.jpg",
+        "cast_role": "Davis"
+      },
+      {
+        "cast_name": "Kecia Lewis",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Hells-Kitchen-K.-Lewis-Cropped-1.jpg",
+        "cast_role": "Miss Liza Jane"
+      },
+      {
+        "cast_name": "Phillip Johnson Richardson",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Hells-Kitchen-P.-J.-Richardson-6-30-25-Cropped.jpg",
+        "cast_role": "Knuck"
+      },
+      {
+        "cast_name": "Angela Birchett",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Hells-Kitchen-A.-Birchett-Cropped-1.jpg",
+        "cast_role": "Crystal"
+      },
+      {
+        "cast_name": "Chad Carstarphen",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Hells-Kitchen-C.-Carstarphen-Cropped-1.jpg",
+        "cast_role": "Ray"
+      },
+      {
+        "cast_name": "Reid Clarke",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Hells-Kitchen-R.-Clarke-Cropped.jpg",
+        "cast_role": "\"Work on It\" Dancer"
+      },
+      {
+        "cast_name": "Nico DeJesus",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Hells-Kitchen-N.-DeJesus-Cropped-1.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Vanessa Ferguson",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Hells-Kitchen-V.-Ferguson-Cropped.jpg",
+        "cast_role": "Tiny"
+      },
+      {
+        "cast_name": "Jakeim Hart",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Hells-Kitchen-J.-Hart-Cropped.jpg",
+        "cast_role": "Q"
+      },
+      {
+        "cast_name": "Eliazar Jimenez",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Hells-Kitchen-E.-Jimenez-Cropped.jpg",
+        "cast_role": "\"Work on It\" Dancer"
+      },
+      {
+        "cast_name": "Jackie Leon",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Hells-Kitchen-J.-Leon-Cropped-1.jpg",
+        "cast_role": "Jessica"
+      },
+      {
+        "cast_name": "Raechelle Manalo",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Hells-Kitchen-R.-Manalo-Cropped.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Miki Michelle",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Hells-Kitchen-M.-Michelle-Cropped.jpg",
+        "cast_role": "\"Unthinkable\" Dancer"
+      },
+      {
+        "cast_name": "Sarah Parker",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Hells-Kitchen-S.-Parker-Cropped.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Eric Parra",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Hells-Kitchen-E.-Parra-Cropped-1.jpg",
+        "cast_role": "\"Unthinkable\" Dancer"
+      },
+      {
+        "cast_name": "Niki Saludez",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Hells-Kitchen-N.-Saludez-Cropped-1.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Nyseli Vega",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Hells-Kitchen-N.-Vega-Cropped.jpg",
+        "cast_role": "Millie"
+      },
+      {
+        "cast_name": "Lamont Walker II",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Hells-Kitchen-L.-Walker-II-7-7-25-Cropped.jpg",
+        "cast_role": "'Riq"
+      }
+    ]
+  },
+  {
+    "title": "Just in Time",
+    "cast_list": [
+      {
+        "cast_name": "Jonathan Groff",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/JIT-J.-Groff-Cropped.jpg",
+        "cast_role": "Bobby Darin"
+      },
+      {
+        "cast_name": "Sarah Hyland",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/JIT-S.-Hyland-Cropped.jpg",
+        "cast_role": "Connie Francis"
+      },
+      {
+        "cast_name": "Sadie Dickerson",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/JIT-S.-Dickerson-Cropped.jpg",
+        "cast_role": "Sandra Dee"
+      },
+      {
+        "cast_name": "Joe Barbara",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/JIT-J.-Barbara-Cropped-1.jpg",
+        "cast_role": "Charlie Maffia, Steve Blauner & others"
+      },
+      {
+        "cast_name": "Emily Bergl",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/JIT-E.-Bergl-Cropped.jpg",
+        "cast_role": "Nina Cassotto, Mary Douvan & others"
+      },
+      {
+        "cast_name": "Michele Pawk",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/JIT-M.-Pawk-Cropped-1.jpg",
+        "cast_role": "Polly Walden"
+      },
+      {
+        "cast_name": "Lance Roberts",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/JIT-L.-Roberts-Cropped.jpg",
+        "cast_role": "Murray the K, Ahmet Ertegun & others"
+      },
+      {
+        "cast_name": "Caesar Samayoa",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/JIT-C.-Samayoa-Cropped.jpg",
+        "cast_role": "Don Kirshner, Giorgio, Angelo & others"
+      },
+      {
+        "cast_name": "Claire Camp",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/JIT-C.-Camp-8-25-25-Cropped-1.png",
+        "cast_role": "Siren & others"
+      },
+      {
+        "cast_name": "Julia Grondin",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/JIT-J.-Grondin-Cropped-1.jpg",
+        "cast_role": "Siren & others"
+      },
+      {
+        "cast_name": "Valeria Yamin",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/JIT-V.-Yamin-Cropped.jpg",
+        "cast_role": "Siren & others"
+      }
+    ]
+  },
+  {
+    "title": "Liberation",
+    "cast_list": [
+      {
+        "cast_name": "Betsy Aidem",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Liberation-B.-Aidem-Cropped-1.jpg",
+        "cast_role": "Margie"
+      },
+      {
+        "cast_name": "Audrey Corsa",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Liberation-A.-Corsa-B-Cropped.jpg",
+        "cast_role": "Dora"
+      },
+      {
+        "cast_name": "Kayla Davion",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Liberation-K.-Davion-Cropped.jpg",
+        "cast_role": "Joanne"
+      },
+      {
+        "cast_name": "Susannah Flood",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Liberation-S.-Flood-Cropped.jpg",
+        "cast_role": "Lizzie"
+      },
+      {
+        "cast_name": "Kristolyn Lloyd",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Liberation-K.-Lloyd-Cropped.jpg",
+        "cast_role": "Celeste"
+      },
+      {
+        "cast_name": "Irene Sofia Lucio",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Liberation-I.-S.-Lucio-Cropped.jpg",
+        "cast_role": "Isidora"
+      },
+      {
+        "cast_name": "Charlie Thurston",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Liberation-C.-Thurston-Cropped-1.jpg",
+        "cast_role": "Bill"
+      },
+      {
+        "cast_name": "Adina Verson",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Liberation-A.-Verson-Cropped.jpg",
+        "cast_role": "Susan"
+      }
+    ]
+  },
+  {
+    "title": "Little Bear Ridge Road",
+    "cast_list": [
+      {
+        "cast_name": "Laurie Metcalf",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/LBRR-L.-Metcalf-Cropped-1.jpg",
+        "cast_role": "Sarah"
+      },
+      {
+        "cast_name": "Micah Stock",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/LBRR-M.-Stock-Cropped-1.jpg",
+        "cast_role": "Ethan"
+      },
+      {
+        "cast_name": "John Drea",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/LBRR-J.-Drea-Cropped-1.jpg",
+        "cast_role": "James"
+      },
+      {
+        "cast_name": "Meighan Gerachis",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/LBRR-M.-Gerachis-Cropped-1.jpg",
+        "cast_role": "Paulette"
+      }
+    ]
+  },
+  {
+    "title": "Mamma Mia!",
+    "cast_list": [
+      {
+        "cast_name": "Christine Sherrill",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Mamma-Mia-C.-Sherrill-Cropped-1.jpg",
+        "cast_role": "Donna Sheridan"
+      },
+      {
+        "cast_name": "Amy Weaver",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Mamma-Mia-A.-Weaver-Cropped-1.jpg",
+        "cast_role": "Sophie Sheridan"
+      },
+      {
+        "cast_name": "Carly Sakolove",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Mamma-Mia-C.-Sakolove-Cropped.jpg",
+        "cast_role": "Rosie"
+      },
+      {
+        "cast_name": "Jalynn Steele",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Mamma-Mia-J.-Steele-Cropped-2.jpg",
+        "cast_role": "Tanya"
+      },
+      {
+        "cast_name": "Rob Marnell",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Mamma-Mia-R.-Marnell-Cropped.jpg",
+        "cast_role": "Harry Bright"
+      },
+      {
+        "cast_name": "Jim Newman",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Mamma-Mia-J.-Newman-Cropped.jpg",
+        "cast_role": "Bill Austin"
+      },
+      {
+        "cast_name": "Victor Wallace",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Mamma-Mia-V.-Wallace-Cropped.jpg",
+        "cast_role": "Sam Carmichael"
+      },
+      {
+        "cast_name": "Grant Reynolds",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Mamma-Mia-G.-Reynolds-Cropped.jpg",
+        "cast_role": "Sky"
+      },
+      {
+        "cast_name": "Lena Owens",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Mamma-Mia-L.-Owens-Cropped.jpg",
+        "cast_role": "Lisa"
+      },
+      {
+        "cast_name": "Justin Sudderth",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Mamma-Mia-J.-Sudderth-8-18-25-Cropped.jpg",
+        "cast_role": "Pepper"
+      },
+      {
+        "cast_name": "Ethan Van Slyke",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Mamma-Mia-E.-Van-Slyke-Cropped.jpg",
+        "cast_role": "Eddie"
+      },
+      {
+        "cast_name": "Haley Wright",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Mamma-Mia-H.-Wright-A-Cropped-1.jpg",
+        "cast_role": "Ali"
+      },
+      {
+        "cast_name": "Alessandra Antonelli",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Mamma-Mia-A.-Antonelli-Cropped-1.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Caro Daye Attayek",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Mamma-Mia-C.-D.-Attayek-Cropped-1.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Adia Olanethia Bell",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Mamma-Mia-A.-O.-Bell-Cropped.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Emily Croft",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Mamma-Mia-E.-Croft-Cropped-1.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Madison Deadman",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Mamma-Mia-M.-Deadman-Cropped.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Jordan De Leon",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Mamma-Mia-J.-De-Leon-Cropped-1.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Nico DiPrimio",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Mamma-Mia-N.-DiPrimio-Cropped-1.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Patrick Dunn",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Mamma-Mia-P.-Dunn-Cropped.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Makoa",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Mamma-Mia-Makoa-Cropped-1.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Erica Mansfield",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Mamma-Mia-E.-Mansfield-Cropped-1.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Jasmine Overbaugh",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Mamma-Mia-J.-Overbaugh-Cropped-2.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Blake Price",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Mamma-Mia-B.-Price-Cropped-1.jpg",
+        "cast_role": "Father Alexandrios"
+      },
+      {
+        "cast_name": "Dorian Quinn",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Mamma-Mia-D.-Quinn-Cropped-1.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Xavi Soto Burgos",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Mamma-Mia-X.-S.-Burgos-Cropped.jpg",
+        "cast_role": "Ensemble"
+      }
+    ]
+  },
+  {
+    "title": "Maybe Happy Ending",
+    "cast_list": [
+      {
+        "cast_name": "Darren Criss",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Maybe-Happy-Ending-D.-Criss-Cropped_2025-10-20-144008_vpgj.jpg",
+        "cast_role": "Oliver"
+      },
+      {
+        "cast_name": "Helen J Shen",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Maybe-Happy-Ending-H.-J-Shen-Cropped.jpg",
+        "cast_role": "Claire"
+      },
+      {
+        "cast_name": "Marcus Choi",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Maybe-Happy-Ending-M.-Choi-Cropped-1.jpg",
+        "cast_role": "James, Junseo & Others"
+      },
+      {
+        "cast_name": "Dez Duron",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Maybe-Happy-Ending-D.-Duron-Cropped.jpg",
+        "cast_role": "Gil Brentley"
+      }
+    ]
+  },
+  {
+    "title": "MJ The Musical",
+    "cast_list": [
+      {
+        "cast_name": "Matte Martinez",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/MJ-M.-Martinez-9-1-25-Cropped.jpg",
+        "cast_role": "MJ"
+      },
+      {
+        "cast_name": "Apollo Levine",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/MJ-A.-Levine-10-2-23-Cropped-1.jpg",
+        "cast_role": "Rob"
+      },
+      {
+        "cast_name": "Bailey McCall",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/MJ-B.-Mccall-6-9-25-Cropped.jpg",
+        "cast_role": "Rachel"
+      },
+      {
+        "cast_name": "Sasha Allen",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/MJ-S.-Allen-Cropped.jpg",
+        "cast_role": "Kate"
+      },
+      {
+        "cast_name": "Gabriel Ruiz",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/MJ-G.-Ruiz-10-2-23-Cropped.jpg",
+        "cast_role": "Alejandro"
+      },
+      {
+        "cast_name": "Christopher Sean Cooper Jr.",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/MJ-C.-Sean-Cooper-Jr-Cropped.jpg",
+        "cast_role": "Little Michael"
+      },
+      {
+        "cast_name": "Emjay Roa",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/MJ-E.-Roa-Cropped-1.jpg",
+        "cast_role": "Little Michael"
+      },
+      {
+        "cast_name": "Tavon Olds-Sample",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/MJ-T.-Olds-Sample-8-25-25-Cropped.jpg",
+        "cast_role": "Tour Singer"
+      },
+      {
+        "cast_name": "Lincoln Alejandro Collier",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/MJ-L.-Collier-Cropped.jpg",
+        "cast_role": "Little Marlon"
+      },
+      {
+        "cast_name": "Tré Frazier",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/MJ-T.-Frazier-5-6-24-Cropped-1.jpg",
+        "cast_role": "Nick [at certain performances]"
+      },
+      {
+        "cast_name": "Michael Andreaus",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/MJ-M.-Andreaus-Cropped.jpg",
+        "cast_role": "Nick [at certain performances]"
+      },
+      {
+        "cast_name": "Ryan VanDenBoom",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/MJ-R.-VanDenBoom-Cropped.jpg",
+        "cast_role": "Dave [at certain performances]"
+      },
+      {
+        "cast_name": "Blu Allen",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/MJ-B.-Allen-10-2-23-Cropped.jpg",
+        "cast_role": "Dave [at certain performances]"
+      },
+      {
+        "cast_name": "Nick T. Daly",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/MJ-N.-T.-Daly-9-15-25-Cropped-1.jpg",
+        "cast_role": "Dave [at certain performances]"
+      },
+      {
+        "cast_name": "Lloyd A. Boyd III",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/MJ-L.-Boyd-10-2-23-copy-Cropped-1.jpg",
+        "cast_role": "Tour Dancer"
+      },
+      {
+        "cast_name": "Kellie Drobnick",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/MJ-K.-Drobnick-Cropped.jpg",
+        "cast_role": "Tour Dancer"
+      },
+      {
+        "cast_name": "John Edwards",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/MJ-J.-Edwards-10-2-23-Cropped.jpg",
+        "cast_role": "Tour Singer"
+      },
+      {
+        "cast_name": "Aydin Eyikan",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/MJ-A.-Eyikan-Cropped.jpg",
+        "cast_role": "Tour Dancer"
+      },
+      {
+        "cast_name": "Matthew Frederick Harris",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/MJ-M.-Harris-10-2-23-Cropped.jpg",
+        "cast_role": "Tour Singer"
+      },
+      {
+        "cast_name": "Sheldon Henry",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/MJ-S.-Henry-Cropped-1.jpg",
+        "cast_role": "Keith [at certain performances]"
+      },
+      {
+        "cast_name": "Brandon LaVar",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/MJ-B.-Whitmore-12-25-23-Cropped.jpg",
+        "cast_role": "Tour Dancer [at certain performances]"
+      },
+      {
+        "cast_name": "Chelsea Mitchell-Bonsu",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/MJ-C.-Mitchell-Bonsu-Cropped.jpg",
+        "cast_role": "Tour Dancer"
+      },
+      {
+        "cast_name": "Sarah Sigman",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/MJ-S.-Sigman-12-25-23-Cropped.jpg",
+        "cast_role": "Tour Dancer"
+      },
+      {
+        "cast_name": "Brion Marquis Watson",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/MJ-B.-M.-Watson-Cropped.jpg",
+        "cast_role": "Tour Dancer"
+      }
+    ]
+  },
+  {
+    "title": "Moulin Rouge! The Musical",
+    "cast_list": [
+      {
+        "cast_name": "Ashley Loren",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/MOULIN-ROUGE-A.-Loren-7-21-25-Cropped.jpg",
+        "cast_role": "Satine"
+      },
+      {
+        "cast_name": "Christian Douglas",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/MOULIN-ROUGE-C.-Douglas-Cropped-1.jpg",
+        "cast_role": "Christian"
+      },
+      {
+        "cast_name": "Wayne Brady",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/MOULIN-ROUGE-W.-Brady-Cropped-1.jpg",
+        "cast_role": "Harold Zidler"
+      },
+      {
+        "cast_name": "André Ward",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/MOULIN-ROUGE-A.-Ward-10-2-23-Cropped.jpg",
+        "cast_role": "Toulouse-Lautrec"
+      },
+      {
+        "cast_name": "David Harris",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/MOULIN-ROUGE-D.-Harris-9-29-25-Cropped.jpg",
+        "cast_role": "The Duke of Monroth"
+      },
+      {
+        "cast_name": "Pepe Muñoz",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/MOULIN-ROUGE-P.-Munoz-Cropped.jpg",
+        "cast_role": "Santiago"
+      },
+      {
+        "cast_name": "Samantha Dodemaide",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/MOULIN-ROUGE-S.-Dodemaide-Cropped-1.jpg",
+        "cast_role": "Nini"
+      },
+      {
+        "cast_name": "Rayen Bailey",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/MOULIN-ROUGE-R.-Bailey-Cropped.jpg",
+        "cast_role": "Arabia"
+      },
+      {
+        "cast_name": "Donna Hammond",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/MOULIN-ROUGE-D.-Hammond-Cropped.png",
+        "cast_role": "La Chocolat"
+      },
+      {
+        "cast_name": "Jeigh Madjus",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/MOULIN-ROUGE-J.-Madjus-Cropped.jpg",
+        "cast_role": "Baby Doll"
+      },
+      {
+        "cast_name": "Olivia Cece",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/HORR-O.-Cece-Cropped.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Alexander Gil Cruz",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/MOULIN-ROUGE-A.-Cruz-Cropped-1.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Aaron C. Finley",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/MOULIN-ROUGE-A.-Finley-Cropped.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Bahiyah Hibah",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/MOULIN-ROUGE-B.-Hibah-10-2-23-Cropped.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Kamal Lado",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/MOULIN-ROUGE-K.-Lado-Cropped.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Tyler Logan",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/MOULIN-ROUGE-T.-Logan-5-12-25-Cropped.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Heather Makalani",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/MOULIN-ROUGE-H.-Makalani-10-2-23-Cropped.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Nick Martinez",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/MOULIN-ROUGE-N.-Martinez-10-2-23-Cropped.jpg",
+        "cast_role": "Pierre"
+      },
+      {
+        "cast_name": "Janayé McAlpine",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/MOULIN-ROUGE-J.-McAlpine-Cropped-1.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Omar Nieves",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/MOULIN-ROUGE-O.-Nieves-Cropped.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Christian Probst",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/MOULIN-ROUGE-C.-Probst-Cropped.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Clay Rice-Thomson",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/MOULIN-ROUGE-C.-Rice-Thomson-10-2-23-Cropped.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Brooke Taylor",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/MOULIN-ROUGE-B.-Taylor-Cropped-1.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Alec Varcas",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/MOULIN-ROUGE-A.-Varcas-10-2-23-Cropped.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Frank Viveros",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/MOULIN-ROUGE-F.-Viveros-Cropped.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Shaun-Avery Williams",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/MOULIN-ROUGE-S.-Avery-Williams-Cropped.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Jennifer Wolfe",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/MOULIN-ROUGE-J.-Wolfe-Cropped-1.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Jenn Stafford Yip",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/MOULIN-ROUGE-J.-Stafford-Yip-Cropped.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Ricardo A. Zayas",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/MOULIN-ROUGE-R.-Zayas-10-2-23-Cropped.jpg",
+        "cast_role": "Ensemble"
+      }
+    ]
+  },
+  {
+    "title": "Oedipus",
+    "cast_list": [
+      {
+        "cast_name": "Mark Strong",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Oedipus-M.-Strong-Cropped-1.jpg",
+        "cast_role": "Oedipus"
+      },
+      {
+        "cast_name": "Lesley Manville",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Oedipus-L.-Manville-Cropped.jpg",
+        "cast_role": "Jocasta"
+      },
+      {
+        "cast_name": "Anne Reid",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Oedipus-A.-Reid-Cropped.jpg",
+        "cast_role": "Merope"
+      },
+      {
+        "cast_name": "John Carroll Lynch",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Oedipus-J.-Lynch-Cropped.jpg",
+        "cast_role": "Creon"
+      },
+      {
+        "cast_name": "Teagle F. Bougere",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Oedipus-T.-Bougere-Cropped.jpg",
+        "cast_role": "Driver"
+      },
+      {
+        "cast_name": "Samuel Brewer",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Oedipus-S.-Brewer-Cropped-1.jpg",
+        "cast_role": "Teiresias"
+      },
+      {
+        "cast_name": "Ani Mesa-Perez",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Oedipus-A.-Mesa-Perez-Cropped.jpg",
+        "cast_role": "Lichas"
+      },
+      {
+        "cast_name": "Bhasker Patel",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Oedipus-B.-Patel-Cropped.jpg",
+        "cast_role": "Corin"
+      },
+      {
+        "cast_name": "Olivia Reis",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Oedipus-O.-Reis-Cropped.jpg",
+        "cast_role": "Antigone"
+      },
+      {
+        "cast_name": "Jordan Scowen",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Oedipus-J.-Scowen-A-Cropped.jpg",
+        "cast_role": "Eteocles"
+      },
+      {
+        "cast_name": "James Wilbraham",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Oedipus-J.-Wilbraham-Cropped.jpg",
+        "cast_role": "Polyneices"
+      },
+      {
+        "cast_name": "Brian Thomas Abraham",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Oedipus-B.-Abraham-Cropped.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Denise Cormier",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Oedipus-D.-Cormier-Cropped.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Karl Kenzler",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Oedipus-K.-Kenzler-Cropped.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Oliver Rowland-Jones",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Oedipus-O.-Rowland-Jones-Cropped.jpg",
+        "cast_role": "Ensemble"
+      }
+    ]
+  },
+  {
+    "title": "Oh, Mary!",
+    "cast_list": [
+      {
+        "cast_name": "Jane Krakowski",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Oh-Mary-J.-Krakowski-Cropped-1.jpg",
+        "cast_role": "Mary Todd Lincoln"
+      },
+      {
+        "cast_name": "John-Andrew Morrison",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Oh-Mary-J.-Morrison-Cropped.jpg",
+        "cast_role": "Mary's Husband"
+      },
+      {
+        "cast_name": "Cheyenne Jackson",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Oh-Mary-C.-Jackson-Cropped.jpg",
+        "cast_role": "Mary's Teacher"
+      },
+      {
+        "cast_name": "Jenn Harris",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Oh-Mary-J.-Harris-Cropped-1.jpg",
+        "cast_role": "Mary's Chaperone"
+      },
+      {
+        "cast_name": "Martin Landry",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Oh-Mary-M.-Landry-10-7-24-Cropped-1.jpg",
+        "cast_role": "Mary's Husband's Assistant"
+      }
+    ]
+  },
+  {
+    "title": "Operation Mincemeat",
+    "cast_list": [
+      {
+        "cast_name": "David Cumming",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Mincemeat-D.-Cumming-Cropped.jpg",
+        "cast_role": "Charles Cholmondeley & others"
+      },
+      {
+        "cast_name": "Claire-Marie Hall",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Mincemeat-C-M.-Hall-Cropped-1.jpg",
+        "cast_role": "Jean Leslie & others"
+      },
+      {
+        "cast_name": "Natasha Hodgson",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Mincemeat-N.-Hodgson-Cropped.jpg",
+        "cast_role": "Ewen Montagu & others"
+      },
+      {
+        "cast_name": "Jak Malone",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Mincemeat-J.-Malone-Cropped.jpg",
+        "cast_role": "Hester Leggatt & others"
+      },
+      {
+        "cast_name": "Zoë Roberts",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Mincemeat-Z.-Roberts-Cropped.jpg",
+        "cast_role": "Johnny Bevan & others"
+      }
+    ]
+  },
+  {
+    "title": "Ragtime",
+    "cast_list": [
+      {
+        "cast_name": "Joshua Henry",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Ragtime-J.-Henry.jpg",
+        "cast_role": "Coalhouse Walker, Jr."
+      },
+      {
+        "cast_name": "Caissie Levy",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Ragtime-C.-Levy-Cropped-1.jpg",
+        "cast_role": "Mother"
+      },
+      {
+        "cast_name": "Brandon Uranowitz",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Ragtime-B.-Uranowitz.jpg",
+        "cast_role": "Tateh"
+      },
+      {
+        "cast_name": "Colin Donnell",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Ragtime-C.-Donnell.jpg",
+        "cast_role": "Father"
+      },
+      {
+        "cast_name": "Nichelle Lewis",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Ragtime-N.-Lewis.jpeg",
+        "cast_role": "Sarah"
+      },
+      {
+        "cast_name": "Ben Levi Ross",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Ragtime-B.-Levi-Ross.jpg",
+        "cast_role": "Mother's Younger Brother"
+      },
+      {
+        "cast_name": "Shaina Taub",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/19847446/Ragtime-S.-Taub.jpg",
+        "cast_role": "Emma Goldman"
+      },
+      {
+        "cast_name": "Anna Grace Barlow",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Ragtime-A.-G.-Barlow.jpg",
+        "cast_role": "Evelyn Nesbit"
+      },
+      {
+        "cast_name": "John Clay III",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Ragtime-J.-Clay-III.jpg",
+        "cast_role": "Booker T. Washington"
+      },
+      {
+        "cast_name": "Rodd Cyrus",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Ragtime-R.-Cyrus.jpeg",
+        "cast_role": "Harry Houdini"
+      },
+      {
+        "cast_name": "Nick Barrington",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Ragtime-N.-Barrington.jpg",
+        "cast_role": "The Little Boy"
+      },
+      {
+        "cast_name": "Tabitha Lawing",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Ragtime-T.-Lawing.jpg",
+        "cast_role": "The Little Girl"
+      },
+      {
+        "cast_name": "Nicholas Barrón",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Ragtime-N.-Barron.jpeg",
+        "cast_role": "Baron's Assistant"
+      },
+      {
+        "cast_name": "Lauren Blackman",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Ragtime-L.-Blackman.jpeg",
+        "cast_role": "Welfare Official"
+      },
+      {
+        "cast_name": "Allison Blackwell",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Ragtime-A.-Blackwell.jpeg",
+        "cast_role": "Sarah's Friend"
+      },
+      {
+        "cast_name": "Briana Carlson-Goodman",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Ragtime-B.-Goodman.jpg",
+        "cast_role": "Brigit"
+      },
+      {
+        "cast_name": "Jordan Chin",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Ragtime-J.-Chin.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Billy Cohen",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Ragtime-B.-Cohen.jpeg",
+        "cast_role": "Stanford White"
+      },
+      {
+        "cast_name": "Rheaume Crenshaw",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Ragtime-R.-Crenshaw.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Ellie Fishman",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Ragtime-E.-Fishman.jpg",
+        "cast_role": "Kathleen"
+      },
+      {
+        "cast_name": "Jason Forbach",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Ragtime-J.-Forbach.jpg",
+        "cast_role": "Henry Ford"
+      },
+      {
+        "cast_name": "Ta'Nika Gibson",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Ragtime-T.-Gibson.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "David Jennings",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Ragtime-D.-Jennings.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Kaleb Johnson",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/22070239/Ragtime-K.-Johnson.jpg",
+        "cast_role": "Coalhouse Walker III"
+      },
+      {
+        "cast_name": "Marina Kondo",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Ragtime-M.-Kondo-Cropped-1.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Morgan Marcell",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Ragtime-M.-Marcell.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Kane Emmanuel Miller",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/22070238/Ragtime-K.-Emmanuel-Miller.jpg",
+        "cast_role": "Coalhouse Walker III"
+      },
+      {
+        "cast_name": "Tom Nelis",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Ragtime-T.-Nelis.jpg",
+        "cast_role": "Grandfather"
+      },
+      {
+        "cast_name": "Kent Overshown",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Ragtime-K.-Overshown.jpg",
+        "cast_role": "Reporter"
+      },
+      {
+        "cast_name": "Kayla Pecchioni",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Ragtime-K.-Pecchioni.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "John Rapson",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Ragtime-J.-Rapson.jpg",
+        "cast_role": "J.P. Morgan"
+      },
+      {
+        "cast_name": "Deandre Sevon",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Ragtime-D.-Sevon.jpg",
+        "cast_role": "Coalhouse Follower"
+      },
+      {
+        "cast_name": "Jacob Keith Watson",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Ragtime-J.-Watson.jpg",
+        "cast_role": "Willie Conklin"
+      },
+      {
+        "cast_name": "Alan Wiggins",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Ragtime-A.-Wiggins.jpeg",
+        "cast_role": "Matthew Henson"
+      }
+    ]
+  },
+  {
+    "title": "Rob Lake Magic with Special Guests The Muppets",
+    "cast_list": [
+      {
+        "cast_name": "Rob Lake",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Rob-Lake-R.-Lake-Cropped.jpg",
+        "cast_role": "Performer"
+      },
+      {
+        "cast_name": "Kermit the Frog",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Rob-Lake-Kermit-Cropped.jpg",
+        "cast_role": "Performer"
+      },
+      {
+        "cast_name": "Miss Piggy",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Rob-Lake-Miss-Piggy-Cropped.jpg",
+        "cast_role": "Performer"
+      },
+      {
+        "cast_name": "The Great Gonzo",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Rob-Lake-Gonzo-Cropped-1.jpg",
+        "cast_role": "Performer"
+      },
+      {
+        "cast_name": "Fozzie Bear",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Rob-Lake-Fozzie-Cropped.jpg",
+        "cast_role": "Performer"
+      },
+      {
+        "cast_name": "Animal",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Rob-Lake-Animal-Cropped.jpg",
+        "cast_role": "Performer"
+      },
+      {
+        "cast_name": "Rowlf the Dog",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Rob-Lake-Rowlf-Cropped.jpg",
+        "cast_role": "Performer"
+      },
+      {
+        "cast_name": "Jesse Forcha",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Rob-Lake-J.-Forcha-Cropped.jpg",
+        "cast_role": "Illusion Assistant"
+      },
+      {
+        "cast_name": "Noah Mason",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Rob-Lake-N.-Mason-Cropped-1.jpg",
+        "cast_role": "Illusion Assistant"
+      },
+      {
+        "cast_name": "Jennifer Orf",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Rob-Lake-J.-Orf-Cropped.jpg",
+        "cast_role": "Illusion Assistant"
+      },
+      {
+        "cast_name": "Natalie Vatalaro",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Rob-Lake-N.-Vatalaro-Cropped.jpg",
+        "cast_role": "Illusion Assistant"
+      },
+      {
+        "cast_name": "Alli Zajac",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Rob-Lake-A.-Zajack-Cropped.jpg",
+        "cast_role": "Illusion Assistant"
+      },
+      {
+        "cast_name": "John Cody",
+        "cast_img": "https://assets.playbill.com/site/_carouselMedium/pb.Listing.Placeholder.ARTIST.V4.jpg",
+        "cast_role": "Puppeteer"
+      },
+      {
+        "cast_name": "Ben Durocher",
+        "cast_img": "https://assets.playbill.com/site/_carouselMedium/pb.Listing.Placeholder.ARTIST.V4.jpg",
+        "cast_role": "Puppeteer"
+      },
+      {
+        "cast_name": "Matthew Furtado",
+        "cast_img": "https://assets.playbill.com/site/_carouselMedium/pb.Listing.Placeholder.ARTIST.V4.jpg",
+        "cast_role": "Puppeteer"
+      },
+      {
+        "cast_name": "Noel MacNeal",
+        "cast_img": "https://assets.playbill.com/site/_carouselMedium/pb.Listing.Placeholder.ARTIST.V4.jpg",
+        "cast_role": "Puppeteer"
+      },
+      {
+        "cast_name": "Sebastiano Ricci",
+        "cast_img": "https://assets.playbill.com/site/_carouselMedium/pb.Listing.Placeholder.ARTIST.V4.jpg",
+        "cast_role": "Puppeteer"
+      },
+      {
+        "cast_name": "Stoph Scheer",
+        "cast_img": "https://assets.playbill.com/site/_carouselMedium/pb.Listing.Placeholder.ARTIST.V4.jpg",
+        "cast_role": "Puppeteer"
+      },
+      {
+        "cast_name": "Matt Vogel",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/de1bf3474a9eda2310cf3522ccfc65bc-Matt-Vogel.jpg",
+        "cast_role": "Kermit the Frog"
+      },
+      {
+        "cast_name": "Eric Jacobson",
+        "cast_img": "https://assets.playbill.com/site/_carouselMedium/pb.Listing.Placeholder.ARTIST.V4.jpg",
+        "cast_role": "Miss Piggy"
+      },
+      {
+        "cast_name": "Dave Goelz",
+        "cast_img": "https://assets.playbill.com/site/_carouselMedium/pb.Listing.Placeholder.ARTIST.V4.jpg",
+        "cast_role": "The Great Gonzo"
+      }
+    ]
+  },
+  {
+    "title": "SIX: The Musical",
+    "cast_list": [
+      {
+        "cast_name": "Najah Hetsberger",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/SIX-N.-Hetsberger.jpeg",
+        "cast_role": "Catherine of Aragon"
+      },
+      {
+        "cast_name": "Gianna Yanelli",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/SIX-G.-Yanelli.jpg",
+        "cast_role": "Anne Boleyn"
+      },
+      {
+        "cast_name": "Kelsie Watts",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/SIX-K.-Watts.jpeg",
+        "cast_role": "Jane Seymour"
+      },
+      {
+        "cast_name": "Krystal Hernandez",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/SIX-K.-Hernandez.jpeg",
+        "cast_role": "Anna of Cleves"
+      },
+      {
+        "cast_name": "Kay Sibal",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/SIX-K.-Sibal.jpg",
+        "cast_role": "Katherine Howard"
+      },
+      {
+        "cast_name": "Taylor Marie Daniel",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/19885370/SIX-T.-Marie-Daniel.jpg",
+        "cast_role": "Catherine Parr"
+      }
+    ]
+  },
+  {
+    "title": "Stranger Things: The First Shadow",
+    "cast_list": [
+      {
+        "cast_name": "Rosie Benton",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/STTFS-R.-Benton.jpg",
+        "cast_role": "Virginia Creel"
+      },
+      {
+        "cast_name": "Alex Breaux",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/STTFS-A.-Breaux.jpg",
+        "cast_role": "Dr. Brenner"
+      },
+      {
+        "cast_name": "Janie Brookshire",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/STTFS-J.-Brookshire-Cropped.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Kelsey Anne Brown",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/STTFS-K.-A.-Brown-Cropped-1.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Malcolm Callender",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/STTFS-M.-Callender-Cropped.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Ta'Rea Campbell",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/STTFS-T.-Campbell.jpg",
+        "cast_role": "Patty's Mom"
+      },
+      {
+        "cast_name": "Juan Carlos",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/STTFS-J.-Carlos.jpg",
+        "cast_role": "Bob Newby"
+      },
+      {
+        "cast_name": "Lia Christina",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/STTFS-L.-Christina-Cropped.jpg",
+        "cast_role": "Alice Creel"
+      },
+      {
+        "cast_name": "Antoinette Comer",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/STTFS-A.-Comer.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Robert T. Cunningham",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/STTFS-R.-Cunningham.jpg",
+        "cast_role": "Charles Sinclair"
+      },
+      {
+        "cast_name": "Ayana Cymone",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/STTFS-A.-Cymone_2025-10-08-202536_izof.jpg",
+        "cast_role": "Sue Anderson"
+      },
+      {
+        "cast_name": "Tom D'Agustino",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/STTFS-T.-DAgustino.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Victor de Paula Rocha",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/STTFS-V.-de-Paula-Rocha.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Ian Dolley",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/STTFS-I.-Dolley.jpg",
+        "cast_role": "Walter Henderson"
+      },
+      {
+        "cast_name": "Dora Dolphin",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/STTFS-D.-Dolphin.jpg",
+        "cast_role": "Karen Childress"
+      },
+      {
+        "cast_name": "Nya Garner",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/STTFS-N.-Garner.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Logan Gould",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/STTFS-L.-Gould.jpg",
+        "cast_role": "Lonny Byers"
+      },
+      {
+        "cast_name": "Shea Grant",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/STTFS-S.-Grant-Cropped-1.jpg",
+        "cast_role": "Claudia Yount"
+      },
+      {
+        "cast_name": "Andrew Hovelson",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/STTFS-A.-Hovelson_2025-10-08-202834_plcy.jpg",
+        "cast_role": "Principal Newby"
+      },
+      {
+        "cast_name": "Rebecca Hurd",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/STTFS-R.-Hurd.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Alison Jaye",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/STTFS-A.-Jaye-4-21-25.jpg",
+        "cast_role": "Joyce Maldonado"
+      },
+      {
+        "cast_name": "T.R. Knight",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/STTFS-T.R.-Knight-Cropped.jpg",
+        "cast_role": "Victor Creel"
+      },
+      {
+        "cast_name": "Ted Koch",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/STTFS-T.-Koch.jpg",
+        "cast_role": "Chief Hopper"
+      },
+      {
+        "cast_name": "Jamie Martin Mann",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/STTFS-J.-M.-Mann-Cropped-1.jpg",
+        "cast_role": "Ted Wheeler"
+      },
+      {
+        "cast_name": "Neil McCaffrey",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/STTFS-N.-McCaffrey.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Louis McCartney",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/STTFS-L.-McCartney.jpg",
+        "cast_role": "Henry Creel"
+      },
+      {
+        "cast_name": "Patrick Scott McDermott",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/STTFS-P.-McDermott-Cropped-1.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Sean Mikesh",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/STTFS-S.-Mikesh.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Gabrielle Nevaeh",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/STTFS-G.-Nevaeh.jpg",
+        "cast_role": "Patty Newby"
+      },
+      {
+        "cast_name": "Burke Swanson",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/STTFS-B.-Swanson.jpg",
+        "cast_role": "James Hopper, Jr."
+      },
+      {
+        "cast_name": "Stephen Wattrus",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/STTFS-S.-Wattrus.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Maya West",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/STTFS-M.-West.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Eric Wiegand",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/STTFS-E.-Wiegand.jpg",
+        "cast_role": "Alan Munson"
+      },
+      {
+        "cast_name": "Graham Winton",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/graham-winton.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Francesca Yhlen",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/STTFS-F.-Yhlen-Cropped.jpg",
+        "cast_role": "Alice Creel"
+      }
+    ]
+  },
+  {
+    "title": "The Book of Mormon",
+    "cast_list": [
+      {
+        "cast_name": "Kevin Clay",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Book-of-Mormon-K.-Clay-10-2-23-Cropped1.jpg",
+        "cast_role": "Elder Price"
+      },
+      {
+        "cast_name": "Diego Enrico",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Book-of-Mormon-D.-Enrico-Cropped.jpg",
+        "cast_role": "Elder Cunningham"
+      },
+      {
+        "cast_name": "Sydney Quildon",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Book-of-Mormon-S.-Quildon-Cropped.jpg",
+        "cast_role": "Nabalungi"
+      },
+      {
+        "cast_name": "Charlie Franklin",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Book-of-Mormon-C.-Franklin-10-27-25-Cropped-1.jpg",
+        "cast_role": "Moroni"
+      },
+      {
+        "cast_name": "Jacques C. Smith",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Book-of-Mormon-J.-Smith-10-2-23-Cropped1.jpg",
+        "cast_role": "Mafala Hatimbi"
+      },
+      {
+        "cast_name": "Jay Wilkison",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Book-of-Mormon-J.-Wilkison-Cropped.jpg",
+        "cast_role": "Missionary Training Center Voice"
+      },
+      {
+        "cast_name": "Derrick Williams",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Book-of-Mormon-D.-Williams-10-2-23-Cropped1_2025-10-09-152114_qzfl.jpg",
+        "cast_role": "General"
+      },
+      {
+        "cast_name": "J. Casey Barrett",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Screen-Shot-2025-10-09-at-10.36.26-AM-Cropped.png",
+        "cast_role": "Cunningham's Dad"
+      },
+      {
+        "cast_name": "Thomas Doelger",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Book-of-Mormon-T.-Doelger-Cropped1.jpg",
+        "cast_role": "Mormon"
+      },
+      {
+        "cast_name": "Rosharra Francis",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Book-of-Mormon-R.-Francis-Cropped1.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Garfield Hammonds",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/BOOK-of-Mormon-G.-Hammonds-Cropped22.jpg",
+        "cast_role": "Guard"
+      },
+      {
+        "cast_name": "Arica Jackson",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/cropped-BOOK-of-Mormon-A.-Jackson-10-2-23-1.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Kristen Jeter",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Book-of-Mormon-K.-Jeter-10-2-23-Cropped1.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Vance Klassen",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Book-of-Mormon-V.-Klassen-Cropped1.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "John K. Kramer",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Book-of-Mormon-J.-K-Kramer-11-4-21-Cropped1.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Brett Michael Lockley",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Book-of-Mormon-B.-M.-Lockley-Cropped1.jpg",
+        "cast_role": "Doctor"
+      },
+      {
+        "cast_name": "Terrie Lynne",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Book-of-Mormon-T.-Lynne-10-2-23-Cropped1.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Henry McGinniss",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Book-of-Mormon-H.-McGinniss-Cropped1.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Darius Nichols",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Book-of-Mormon-D.-Nichols-10-2-23-Cropped1.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "John Eric Parker",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Book-of-Mormon-J.-Parker-10-2-23-Cropped1.jpg",
+        "cast_role": "Guard"
+      },
+      {
+        "cast_name": "John Pinto, Jr.",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Book-of-Mormon-J.-Pinto-Cropped1.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Andrew Stevens Purdy",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Book-of-Mormon-A.-Stevens-Purdy-10-16-23-Cropped1.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Jasmin Richardson",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Book-of-Mormon-Jasmin-Richardson-10-2-23-Cropped1.jpg",
+        "cast_role": "Mrs. Brown"
+      }
+    ]
+  },
+  {
+    "title": "The Great Gatsby",
+    "cast_list": [
+      {
+        "cast_name": "Ryan McCartan",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Gatsby-R.-McCartan-Cropped1.jpg",
+        "cast_role": "Jay Gatsby"
+      },
+      {
+        "cast_name": "Aisha Jackson",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Gatsby-A.-Jackson-Cropped1.jpg",
+        "cast_role": "Daisy Buchanan"
+      },
+      {
+        "cast_name": "Michael Maliakel",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Gatsby-M.-Maliakel-Cropped1.jpg",
+        "cast_role": "Nick Carraway"
+      },
+      {
+        "cast_name": "Samantha Pauly",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Gatsby-S.-Pauly-Cropped.jpg",
+        "cast_role": "Jordan Baker"
+      },
+      {
+        "cast_name": "Linedy Genao",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Gatsby-L.-Genao-Cropped1_2025-10-09-133154_tiuc.jpg",
+        "cast_role": "Myrtle Wilson"
+      },
+      {
+        "cast_name": "Austin Colby",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Gatsby-A.-Colby-Cropped1.jpg",
+        "cast_role": "Tom Buchanan"
+      },
+      {
+        "cast_name": "Charlie Pollock",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Gatsby-C.-Pollock-Cropped1_2025-10-09-133349_ktsf.jpg",
+        "cast_role": "George Wilson"
+      },
+      {
+        "cast_name": "Eric Anderson",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Gatsby-E.-Anderson-4-21-25-Cropped1.jpg",
+        "cast_role": "Meyer Wolfsheim"
+      },
+      {
+        "cast_name": "Alexis Hasbrouck",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Gatsby-A.-Hasbrouck-Cropped1.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Curtis Holland",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Gatsby-C.-Holland-Cropped1.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Nathaniel Hunt",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Gatsby-N.-Hunt-Cropped1.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Traci Elaine Lee",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Gatsby-T.-Lee-Cropped.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Dariana Mullen",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Gatsby-D.-Mullen-Cropped1.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Mariah Resheg Reives",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Gatsby-M.-Reives-Cropped1.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Dan Rosales",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Gatsby-D.-Rosales-Cropped1.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Dave Schoonover",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Gatsby-D.-Schoonover-Cropped1.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Tess Soltau",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Gatsby-T.-Soltau-Cropped1.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Kyla Stone",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Gatsby-K.-Stone-Cropped1.jpg",
+        "cast_role": "Mrs. McKee"
+      },
+      {
+        "cast_name": "Preston Taylor",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Gatsby-P.-Taylor-Cropped1.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Jessica Mallare White",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Gatsby-J.-M.-White-Cropped1.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Matt Wiercinski",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Gatsby-M.-Wiercinski-Cropped1.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Kurt Csolak",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Gatsby-Kurt-Csolak-Cropped1.jpg",
+        "cast_role": "Additional Partygoer"
+      },
+      {
+        "cast_name": "Haley Fish",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Gatsby-H.-Fish-Cropped1.jpg",
+        "cast_role": "Additional Partygoer"
+      },
+      {
+        "cast_name": "Morgan Harrison",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Gatsby-M.-Harrison-Cropped1.jpg",
+        "cast_role": "Additional Partygoer"
+      },
+      {
+        "cast_name": "Brandon J. Large",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Gatsby-B.-Large-4-28-25-Cropped1.jpg",
+        "cast_role": "Additional Partygoer"
+      }
+    ]
+  },
+  {
+    "title": "The Lion King",
+    "cast_list": [
+      {
+        "cast_name": "Gavin Lee",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Lion-King-G.-Lee-Cropped1.jpg",
+        "cast_role": "Scar"
+      },
+      {
+        "cast_name": "L. Steven Taylor",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Lion-King-L.-Taylor-10-2-23-Cropped1.jpg",
+        "cast_role": "Mufasa"
+      },
+      {
+        "cast_name": "Blakely Slaybaugh",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Lion-King-B.-Slaybaugh-Cropped.jpg",
+        "cast_role": "Zazu"
+      },
+      {
+        "cast_name": "Ntsepa Pitjeng-Molebatsi",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Lion-King-N.-Pitjeng-Molebatsi-Cropped1.jpg",
+        "cast_role": "Rafiki"
+      },
+      {
+        "cast_name": "Fred Berman",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Lion-King-F.-Berman-10-2-23-Cropped1_2025-10-14-142138_qboi.jpg",
+        "cast_role": "Timon"
+      },
+      {
+        "cast_name": "Ben Jeffrey",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Lion-King-B.-Jeffrey-10-2-23-Cropped1.jpg",
+        "cast_role": "Pumbaa"
+      },
+      {
+        "cast_name": "Vincent Jamal Hooper",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Lion-King-V.-Jamal-Hooper-Cropped1.jpg",
+        "cast_role": "Simba"
+      },
+      {
+        "cast_name": "Pearl Khwezi",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Lion-King-P.-Khwezi-10-2-23-Cropped1_2025-10-14-143738_jlwr.jpg",
+        "cast_role": "Nala"
+      },
+      {
+        "cast_name": "James Brown-Orleans",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Lion-King-J.-Brown-Orleans-10-2-23-Cropped1.jpg",
+        "cast_role": "Banzai"
+      },
+      {
+        "cast_name": "Bonita J. Hamilton",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Lion-King-B.-Hamilton-7-29-19-Cropped1_2025-10-14-142353_dzwc.jpg",
+        "cast_role": "Shenzi"
+      },
+      {
+        "cast_name": "Robb Sapp",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Lion-King-R.-Sapp-1-13-25-Cropped1_2025-10-14-143757_gtkm.jpg",
+        "cast_role": "Ed"
+      },
+      {
+        "cast_name": "Caleb Beltran",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Lion-King-C.-Beltran-Cropped1.jpg",
+        "cast_role": "Young Simba"
+      },
+      {
+        "cast_name": "McKenzie Sherie Lewis",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Lion-King-M.-Lewis-Cropped1.jpg",
+        "cast_role": "Young Nala"
+      },
+      {
+        "cast_name": "Emma Origenes",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Lion-King-E.-Origenes-Cropped1.jpg",
+        "cast_role": "Young Nala"
+      },
+      {
+        "cast_name": "Julius-Raymond Weems IV",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Lion-King-J.-Raymond-Weems-Cropped1_2025-10-14-142633_pmnd.jpg",
+        "cast_role": "Young Simba"
+      },
+      {
+        "cast_name": "Ezekiel Andrew",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Lion-King-E.-Andrew-10-2-23-Cropped1.jpg",
+        "cast_role": "Ensemble Singer"
+      },
+      {
+        "cast_name": "Leanne Antonio",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Lion-King-L.-Antonio-10-28-24-Cropped1.jpg",
+        "cast_role": "Ensemble Singer"
+      },
+      {
+        "cast_name": "Adrianne Chu",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Lion-King-A.-Chu-Cropped1.jpg",
+        "cast_role": "Ensemble Dancer"
+      },
+      {
+        "cast_name": "Lindiwe Dlamini",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Lion-King-L.-Dlamini-10-2-23-Cropped1.jpg",
+        "cast_role": "Ensemble Singer"
+      },
+      {
+        "cast_name": "Zinhle Dube",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/z-dube-Cropped1.png",
+        "cast_role": "Ensemble Singer"
+      },
+      {
+        "cast_name": "Bongi Duma",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Lion-King-B.-Duma-10-2-23-Cropped1.jpg",
+        "cast_role": "Ensemble Singer"
+      },
+      {
+        "cast_name": "Shawn Alynda Fisher",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Lion-King-S.-Alynda-Fisher-10-2-23-Cropped1.jpg",
+        "cast_role": "Ensemble Dancer"
+      },
+      {
+        "cast_name": "Paige Fraser-Hoffman",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Lion-King-P.-Fraser-Hoffman-10-2-23-Cropped1.jpg",
+        "cast_role": "Ensemble Dancer"
+      },
+      {
+        "cast_name": "Daniel Harder",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Lion-King-D.-Harder-10-2-23-Cropped1.jpg",
+        "cast_role": "Ensemble Dancer"
+      },
+      {
+        "cast_name": "Michael Alexander Henry",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Michael-Alexander-Henry.jpg",
+        "cast_role": "Ensemble Singer"
+      },
+      {
+        "cast_name": "Amanda Kunene",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Lion-King-A.-Kunene-10-2-23-Cropped1.jpg",
+        "cast_role": "Ensemble Singer"
+      },
+      {
+        "cast_name": "Daphne Marcelle Lee",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Lion-King-D.-Marcelle-Lee-5-20-24-Cropped1_2025-10-14-143046_fqas.jpg",
+        "cast_role": "Ensemble Dancer"
+      },
+      {
+        "cast_name": "Mduduzi Madela",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/9700a88fa096f0c99f04a3a8359fce4f-lion-king-m.%20Madela%209-1-21%20Cropped%20(1).png",
+        "cast_role": "Ensemble Singer"
+      },
+      {
+        "cast_name": "Zaki A'Jani Marshall",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Lion-King-Z.-AJani-Marshall-Cropped1.jpg",
+        "cast_role": "Ensemble Dancer"
+      },
+      {
+        "cast_name": "Jaysin McCollum",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/j-mccollum-Cropped1.png",
+        "cast_role": "Ensemble Dancer"
+      },
+      {
+        "cast_name": "Ray Mercer",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Ray-Mercer.1429625757.jpg",
+        "cast_role": "Ensemble Dancer"
+      },
+      {
+        "cast_name": "Jamaris Mitchell",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Lion-King-J.-Mitchell-Cropped1.jpg",
+        "cast_role": "Ensemble Dancer"
+      },
+      {
+        "cast_name": "S'bu Ngema",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Lion-King-Sbu-Ngema-10-2-23-Cropped1.jpg",
+        "cast_role": "Ensemble Singer"
+      },
+      {
+        "cast_name": "Jeremy Noel",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Lion-King-J.-Noel-Cropped1.png",
+        "cast_role": "Ensemble Singer"
+      },
+      {
+        "cast_name": "Tatiana Nuñez",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Lion-King-T.-Nunez-Cropped1.jpg",
+        "cast_role": "Ensemble Dancer"
+      },
+      {
+        "cast_name": "Antonia Raye",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Lion-King-A.-Raye-Cropped1.png",
+        "cast_role": "Ensemble Dancer"
+      },
+      {
+        "cast_name": "Nathan Andrew Riley",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Lion-King-N.-Andrew-Riley-Cropped.jpg",
+        "cast_role": "Ensemble Singer"
+      },
+      {
+        "cast_name": "Dylan Santos",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Lion-King-D.-Santos-Cropped1.jpg",
+        "cast_role": "Ensemble Dancer"
+      },
+      {
+        "cast_name": "Kaylin Seckel",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Lion-King-K.-Seckel-10-2-23-Cropped1.jpg",
+        "cast_role": "Ensemble Singer"
+      },
+      {
+        "cast_name": "James Vessell",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Lion-King-J.-Vessell-10-2-23-Cropped1.png",
+        "cast_role": "Ensemble Dancer"
+      },
+      {
+        "cast_name": "Marcus Williams",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Lion-King-M.-Williams-10-2-23-Cropped1.jpg",
+        "cast_role": "Ensemble Dancer"
+      },
+      {
+        "cast_name": "Sidney Nicole Wilson",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Lion-King-S.-Nicole-Wilson-Cropped1_2025-10-14-143631_rqxe.jpg",
+        "cast_role": "Ensemble Singer"
+      }
+    ]
+  },
+  {
+    "title": "The Outsiders",
+    "cast_list": [
+      {
+        "cast_name": "Trevor Wayne",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Outsiders-T.-Wayne-8-11-25-Cropped1.jpg",
+        "cast_role": "Ponyboy Curtis"
+      },
+      {
+        "cast_name": "Sky Lakota-Lynch",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Outsiders-S.-Lakota-Lynch-Cropped1.jpg",
+        "cast_role": "Johnny Cade"
+      },
+      {
+        "cast_name": "Alex Joseph Grayson",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Outsiders-A.-J.-Grayson-Cropped1.jpg",
+        "cast_role": "Dallas Winston"
+      },
+      {
+        "cast_name": "Dan Berry",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Outsiders-D.-Berry-9-29-25-Cropped1.jpg",
+        "cast_role": "Darrel Curtis"
+      },
+      {
+        "cast_name": "Victor Carrillo Tracey",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Outsiders-V.-C.-Tracey-10-27-25-Cropped.jpg",
+        "cast_role": "Sodapop Curtis"
+      },
+      {
+        "cast_name": "Emma Pittman",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Outsiders-E.-Pittman-Cropped1.jpg",
+        "cast_role": "Cherry Valance"
+      },
+      {
+        "cast_name": "Daryl Tofa",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Outsiders-D.-Tofa-Cropped1.jpg",
+        "cast_role": "Two-Bit"
+      },
+      {
+        "cast_name": "Kevin Csolak",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Outsiders-Kevin-Csolak-Cropped1.jpg",
+        "cast_role": "Bob"
+      },
+      {
+        "cast_name": "Davis Wayne",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Outsiders-D.-Wayne-Cropped1.jpg",
+        "cast_role": "Paul"
+      },
+      {
+        "cast_name": "Tilly Evans-Krueger",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Outsiders-T.-Evans-Krueger-Cropped1.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Devin Tyler Hatch",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Outsiders-D.-T.-Hatch-Cropped1.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Hailey Hyde",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Outsiders-H.-Hyde-Cropped1.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Renni Anthony Magee",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Outsiders-R.-A.-Magee-Cropped1.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "SarahGrace Mariani",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Outsiders-S.-Mariani-Cropped1.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Melody Rose",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Outsiders-M.-Rose-Cropped1.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Sequoiia",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Outsiders-Sequoiia-Cropped1.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Josh Strobl",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Outsiders-J.-Strobl-Cropped1_2025-10-09-134907_tyia.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Eli Talley",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Outsiders-E.-Talley-Cropped1.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Mitchell Woodcock",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Outsiders-M.-Woodcock-Cropped-1.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Cole Zieser",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Outsiders-C.-Zieser-Cropped1.jpg",
+        "cast_role": "Ensemble"
+      }
+    ]
+  },
+  {
+    "title": "The Queen of Versailles",
+    "cast_list": [
+      {
+        "cast_name": "Kristin Chenoweth",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Queen-of-Versailles-K.-Chenoweth-Cropped-2.jpg",
+        "cast_role": "Jackie Siegel"
+      },
+      {
+        "cast_name": "F. Murray Abraham",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Queen-of-Versailles-F.-Murray-Abraham-Cropped-1.jpg",
+        "cast_role": "David Siegel"
+      },
+      {
+        "cast_name": "Melody Butiu",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Queen-of-Versailles-M.-Butiu-Cropped.jpg",
+        "cast_role": "Sofia"
+      },
+      {
+        "cast_name": "Stephen DeRosa",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Queen-of-Versailles-S.-DeRosa-Cropped-1.jpg",
+        "cast_role": "John & Others"
+      },
+      {
+        "cast_name": "Greg Hildreth",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Queen-of-Versailles-G.-Hildreth-Cropped.jpg",
+        "cast_role": "Gary"
+      },
+      {
+        "cast_name": "Tatum Grace Hopkins",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Queen-of-Versailles-T.-Hopkins-Cropped.jpg",
+        "cast_role": "Jonquil"
+      },
+      {
+        "cast_name": "Isabel Keating",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Queen-of-Versailles-I.-Keating-Cropped.jpg",
+        "cast_role": "Debbie & Others"
+      },
+      {
+        "cast_name": "Nina White",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Queen-of-Versailles-N.-White-Cropped-1.jpg",
+        "cast_role": "Victoria"
+      },
+      {
+        "cast_name": "Yeman Brown",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Queen-of-Versailles-Y.-Brown-Cropped.jpg",
+        "cast_role": "Worker & Others"
+      },
+      {
+        "cast_name": "David Aron Damane",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Queen-of-Versailles-D.-Damane-Cropped-1.jpg",
+        "cast_role": "Ray & Others"
+      },
+      {
+        "cast_name": "Drew Elhamalawy",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Queen-of-Versailles-D.-Elhamalawy-Cropped-1.jpg",
+        "cast_role": "Plastic Surgeon & Others"
+      },
+      {
+        "cast_name": "KJ Hippensteel",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Queen-of-Versailles-KJ-Hippensteel-Cropped.jpg",
+        "cast_role": "IBM Manager & Others"
+      },
+      {
+        "cast_name": "Cassondra James",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Queen-of-Versailles-C.-James-Cropped-1.jpg",
+        "cast_role": "Marie Antoinette & Others"
+      },
+      {
+        "cast_name": "Andrew Kober",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Queen-of-Versailles-A.-Kober-Cropped.jpg",
+        "cast_role": "Pageant Host & Others"
+      },
+      {
+        "cast_name": "Pablo David Laucerica",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Queen-of-Versailles-P.-Laucerica-Cropped-1.jpg",
+        "cast_role": "Louis XIV & Others"
+      },
+      {
+        "cast_name": "Ryah Nixon",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Queen-of-Versailles-R.-Nixon-Cropped.jpg",
+        "cast_role": "Sheri & Others"
+      },
+      {
+        "cast_name": "Shea Renne",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Queen-of-Versailles-S.-Renne-Cropped-1.jpg",
+        "cast_role": "Sue & Others"
+      },
+      {
+        "cast_name": "Michael McCorry Rose",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Queen-of-Versailles-M.-Rose-Cropped.jpg",
+        "cast_role": "Ron & Others"
+      }
+    ]
+  },
+  {
+    "title": "Two Strangers (Carry a Cake Across New York)",
+    "cast_list": [
+      {
+        "cast_name": "Sam Tutty",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Two-Strangers-S.-Tutty-Cropped-1.jpg",
+        "cast_role": "Dougal"
+      },
+      {
+        "cast_name": "Christiani Pitts",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Two-Strangers-C.-Pitts-Cropped.jpg",
+        "cast_role": "Robin"
+      }
+    ]
+  },
+  {
+    "title": "Waiting for Godot",
+    "cast_list": [
+      {
+        "cast_name": "Keanu Reeves",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Godot-K.-Reeves-Cropped1.jpg",
+        "cast_role": "Estragon"
+      },
+      {
+        "cast_name": "Alex Winter",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Godot-A.-Winter-Cropped1.jpg",
+        "cast_role": "Vladimir"
+      },
+      {
+        "cast_name": "Brandon J. Dirden",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Godot-B.-J-Dirden-Cropped1_2025-10-09-134745_btxx.jpg",
+        "cast_role": "Pozzo"
+      },
+      {
+        "cast_name": "Michael Patrick Thornton",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Godot-M.-P.-Thornton-Cropped1.jpg",
+        "cast_role": "Lucky"
+      },
+      {
+        "cast_name": "Zaynn Arora",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Godot-Z.-Arora-Cropped1.jpg",
+        "cast_role": "A Boy at certain performances"
+      },
+      {
+        "cast_name": "Eric Williams",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Godot-E.-Williams-10-20-25-Cropped1.jpg",
+        "cast_role": "A Boy at certain performances"
+      }
+    ]
+  },
+  {
+    "title": "Wicked",
+    "cast_list": [
+      {
+        "cast_name": "Lencia Kebede",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Wicked-L.-Kebede-Cropped1.jpg",
+        "cast_role": "Elphaba"
+      },
+      {
+        "cast_name": "Keri René Fuller",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Wicked-K.-R.-Fuller-Cropped1.jpg",
+        "cast_role": "Elphaba [at certain performances]"
+      },
+      {
+        "cast_name": "Allie Trimm",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Wicked-A.-Trimm-9-15-25-Cropped1.jpg",
+        "cast_role": "Glinda"
+      },
+      {
+        "cast_name": "Jennafer Newberry",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Wicked-J.-Newberry-Cropped1.jpg",
+        "cast_role": "Glinda [at certain performances]"
+      },
+      {
+        "cast_name": "NaTasha Yvette Williams",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Wicked-N.Y.-Williams-Cropped1.jpg",
+        "cast_role": "Madame Morrible"
+      },
+      {
+        "cast_name": "Brad Oscar",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Wicked-B.-Oscar-3-3-25-Cropped1.jpg",
+        "cast_role": "The Wonderful Wizard of Oz"
+      },
+      {
+        "cast_name": "Jordan Litz",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Wicked-J.-Litz-10-2-23-Cropped1.jpg",
+        "cast_role": "Fiyero"
+      },
+      {
+        "cast_name": "Daniel Quadrino",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Wicked-D.-Quadrino-3-3-25-Cropped1.jpg",
+        "cast_role": "Boq"
+      },
+      {
+        "cast_name": "Jenna Bainbridge",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Wicked-J.-Bainbridge-Cropped1.jpg",
+        "cast_role": "Nessarose"
+      },
+      {
+        "cast_name": "William Youmans",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Wicked-W.-Youmans-10-2-23-Cropped1.jpg",
+        "cast_role": "Doctor Dillamond"
+      },
+      {
+        "cast_name": "Larkin Bogan",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Wicked-L.-Bogan-Cropped-bw.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Ixchel Cuellar",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Wicked-I.-Cuellar-Cropped1.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Matthew Deloch",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Wicked-M.-Deloch-Cropped1.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Meg Doherty",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Wicked-M.-Doherty-10-2-23-Cropped1.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Tyler Eisenreich",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Wicked-T.-Eisenreich-Cropped1.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Dan Gleason",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Wicked-D.-Gleason-10-2-23-Cropped1.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Josh Daniel Green",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Wicked-J.-Green-10-2-23-Cropped1.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Jeff Heimbrock",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Wicked-J.-Heimbrock-11-13-23-Cropped1.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Stephen Hernandez",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Wicked-S.-Hernandez-Cropped1.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Celia Hottenstein",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Wicked-C.-Hottenstein-5-20-24-Cropped1.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Alison Jantzie",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Wicked-A.-Jantzie-10-2-23-Cropped1.jpg",
+        "cast_role": "Witch's Mother"
+      },
+      {
+        "cast_name": "Cajai Kennedy",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Wicked-C.-Kennedy-10-2-23-Cropped1.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Mattie Love",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Wicked-M.-Love-Cropped1.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Nando Morland",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Wicked-N.-Morland-Cropped1.jpg",
+        "cast_role": "Chistery"
+      },
+      {
+        "cast_name": "Jackie Raye",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Wicked-J.-Raye-Cropped1.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Emily Rogers",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Wicked-E.-Rogers-10-2-23-Cropped1.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Gabriela M. Soto",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Wicked-G.-Soto-10-2-23-Cropped1.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Travis Taber",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Wicked-T.-Taber-10-2-23-Cropped1_2025-10-09-135426_qbbc.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Michael Thatcher",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Wicked-M.-Thatcher-10-21-24-Cropped1.jpg",
+        "cast_role": "Witch's Father"
+      },
+      {
+        "cast_name": "Jeremy Thompson",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Wicked-J.-Thompson-10-2-23-Cropped1_2025-10-09-135507_wygm.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Christianne Tisdale",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Wicked-C.-Tisdale-10-2-23-Cropped1_2025-10-09-135532_sbhh.jpg",
+        "cast_role": "Midwife"
+      },
+      {
+        "cast_name": "Maggie Van Wieringen",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Wicked-M.-Van-Wieringen-Cropped1.jpg",
+        "cast_role": "Ensemble"
+      },
+      {
+        "cast_name": "Michael Williams",
+        "cast_img": "https://assets.playbill.com/head-shots/_carouselMedium/Wicked-M.-Williams-10-2-23-Cropped1.jpg",
+        "cast_role": "Ensemble"
+      }
+    ]
+  }
+]
