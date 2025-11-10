@@ -59,11 +59,11 @@ Data is preprocessed and stored in local `.json` files, extracted from:
 ##  Running the App in Xcode
 
 To run this app in Xcode:
-Make sure you are using Xcode 15 or later.
-Select the target: Broadway-Musical-Explorer.
-Use the simulator: iPhone 16 Pro.
-- Earlier simulators (like iPhone 14/15 or lower OS versions) may cause layout issues or black screen.
-Press ⌘R to build and run.
+- Make sure you are using Xcode 15 or later.
+- Select the target: Broadway-Musical-Explorer.
+- Use the simulator: iPhone 16 Pro.
+-- Earlier simulators (like iPhone 14/15 or lower OS versions) may cause layout issues or black screen.
+- Press ⌘R to build and run.
 
 
 
