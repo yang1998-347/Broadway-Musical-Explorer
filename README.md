@@ -1,4 +1,3 @@
-<img width="504" height="956" alt="Screenshot 2025-11-10 at 5 20 44 AM" src="https://github.com/user-attachments/assets/122212c9-50b8-4410-83e7-bfb71535bbe1" /># Broadway-Musical-Explorer
 An iOS app built with SwiftUI that helps users explore Broadway musicals with show details, images, and more.
 
 Users can:
