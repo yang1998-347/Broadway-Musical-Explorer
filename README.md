@@ -71,6 +71,6 @@ To run this app in Xcode:
 
 Note: This repository was reconstructed for presentation purposes. The commit history reflects a cleaned-up version of the original project for clarity.
 
-## 🔖 Author
+##  Author
 
 Created by Yang-Ting Lin
